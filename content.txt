@@ -1,0 +1,101 @@
+# ♡ Everything on the birthday page lives in this file.
+#
+# HOW TO EDIT: on GitHub, click the pencil icon, change the text, then press "Commit changes".
+# The page updates about a minute later.
+#
+# • Lines starting with "# " are notes for you. They never show on the page.
+# • Text can go right after a label (to: Neha) or on the lines below it (letter:).
+# • Photos: upload them to the "images" folder, then write the exact file name,
+#   e.g.  photo: neha-smile.jpg   (capital letters matter: .JPG is not .jpg)
+# • Anything left empty is simply skipped.
+# • Prefer a form? Open the editor: https://neernjan1.github.io/nov19-surprise/?edit
+# • Check how it looks on any day: https://neernjan1.github.io/nov19-surprise/?date=2026-11-19
+
+to: Neha
+from: Neeraj
+birthday: 2026-11-19
+# birthday as YEAR-MONTH-DAY, e.g. 2026-11-19
+
+# ───────── ON THE BIRTHDAY ─────────
+photo:
+headline:
+# leave headline empty for "Happy Birthday, Neha"
+message:
+
+candles: 5
+wish:
+
+letter:
+
+sign-off:
+music: musicbox
+# music: musicbox (built-in melody), none, or the name of a song file in the "music" folder
+
+# ───────── BEFORE THE BIRTHDAY ─────────
+countdown headline:
+
+# ───────── DAILY ENVELOPES ─────────
+# One opens each day before the birthday, at midnight.
+# "opens" can be "7 days before" or a date like 2026-11-12.
+# To add another envelope, copy a whole === ENVELOPE === block.
+
+=== ENVELOPE ===
+opens: 7 days before
+title:
+photo:
+message:
+
+=== ENVELOPE ===
+opens: 6 days before
+title:
+photo:
+message:
+
+=== ENVELOPE ===
+opens: 5 days before
+title:
+photo:
+message:
+
+=== ENVELOPE ===
+opens: 4 days before
+title:
+photo:
+message:
+
+=== ENVELOPE ===
+opens: 3 days before
+title:
+photo:
+message:
+
+=== ENVELOPE ===
+opens: 2 days before
+title:
+photo:
+message:
+
+=== ENVELOPE ===
+opens: 1 day before
+title:
+photo:
+message:
+
+# ───────── MEMORY TIMELINE ─────────
+# Shown in this order on the birthday. "when" can be any text, e.g. June 2022 · first coffee
+
+=== MEMORY ===
+when:
+photo:
+caption:
+
+=== MEMORY ===
+when:
+photo:
+caption:
+
+=== MEMORY ===
+when:
+photo:
+caption:
+
